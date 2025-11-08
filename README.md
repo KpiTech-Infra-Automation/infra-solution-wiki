@@ -1,2 +1,1 @@
-# Infra-automation-public
-demo-01
+Cutting-edge DevOps solutions on Azure
